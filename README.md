@@ -5,7 +5,7 @@
 
 ## Reference
 
-1. Tim Esler's facenet repo: 1. David Sandberg's facenet repo: [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
+1. Tim Esler's facenet repo: 1. David Sandberg's facenet repo: [https://github.com/timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch)
 
 1. F. Schroff, D. Kalenichenko, J. Philbin. _FaceNet: A Unified Embedding for Face Recognition and Clustering_, arXiv:1503.03832, 2015. [PDF](https://arxiv.org/pdf/1503.03832)
 
