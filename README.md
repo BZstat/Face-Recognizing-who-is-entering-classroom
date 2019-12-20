@@ -8,7 +8,9 @@
 
 I set the face classfication model as below
 
-### Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)
+### <span style="color:red">### Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)</span>
+
+출처: https://msparkms.tistory.com/entry/Markdown-문법-정리 [MSPark's Blog]
 
 When image(or video) is putted, "MTCNN" model output detected bounding box and simple face features by image. But, this feature is not enough to classfy face by simple classifier (like KNN)
 
@@ -18,9 +20,9 @@ The reason why we used simple classfier (like knn) is that when we check attenda
 
 when we used Attendance AI for check attendance, we just used 5 pictures of each person for training
 
-* For privacy, we did not upload our student's pictures. Instead, we uploaded 5 pictures of each member of BTS for training.
+** For privacy, we did not upload our student's pictures. Instead, we uploaded 5 pictures of each member of BTS for training.
 
-* I used Inception Resnet (V1) models implemented by 'timsler' (it is pretrained on VGGFace2 and CASIA-Webface) He also implemented MTCNN for face detection prior to inference
+** I used Inception Resnet (V1) models implemented by 'timsler' (it is pretrained on VGGFace2 and CASIA-Webface) He also implemented MTCNN for face detection prior to inference
 
 # Attendance AI.ipynb
 
