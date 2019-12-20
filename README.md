@@ -3,4 +3,4 @@
 Seung hyeup I BABO
 sukyung too
 
-WTF you guy~
+WTF you guy SH~
