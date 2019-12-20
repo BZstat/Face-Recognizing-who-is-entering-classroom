@@ -8,9 +8,8 @@
 
 I set the face classfication model as below
 
-### <span style="color:red">### Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)</span>
-
-출처: https://msparkms.tistory.com/entry/Markdown-문법-정리 [MSPark's Blog]
+## Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)
+##
 
 When image(or video) is putted, "MTCNN" model output detected bounding box and simple face features by image. But, this feature is not enough to classfy face by simple classifier (like KNN)
 
