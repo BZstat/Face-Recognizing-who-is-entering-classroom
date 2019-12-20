@@ -42,7 +42,7 @@ jupyter notebook code for automatically check the attendance
 
 1. Excute "Attendance.ipynb" file
 
-just follow steps !!!
+    just follow steps !!!
 
 ## Reference
 
