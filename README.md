@@ -8,7 +8,6 @@
 
 I set the face classfication model as below
 
-###
 ## Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)
 
 When image(or video) is putted, "MTCNN" model output detected bounding box and simple face features by image. But, this feature is not enough to classfy face by simple classifier (like KNN)
@@ -23,7 +22,7 @@ when we used Attendance AI for check attendance, we just used 5 pictures of each
 
 ** I used Inception Resnet (V1) models implemented by 'timsler' (it is pretrained on VGGFace2 and CASIA-Webface) He also implemented MTCNN for face detection prior to inference
 
-# Attendance AI.ipynb
+# Implementation
 
 jupyter notebook code for automatically check the attendance
 
@@ -43,6 +42,7 @@ jupyter notebook code for automatically check the attendance
 
 1. Excute "Attendance.ipynb" file
 
+just follow steps !!!
 
 ## Reference
 
