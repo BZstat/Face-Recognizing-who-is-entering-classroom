@@ -7,7 +7,8 @@
 | Windows | 3.5, 3.6, 3.7 |
 
 I set the face classfication model as below
-#####
+
+###
 ## Face detection(MTCNN) - Face Feature Extraction(Inception ResNet) - Face classifier(KNN)
 
 When image(or video) is putted, "MTCNN" model output detected bounding box and simple face features by image. But, this feature is not enough to classfy face by simple classifier (like KNN)
